@@ -1,0 +1,13 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is F01D-C94A
+
+ Directory of C:\Code\GitHub\tokuro\TestConsole
+
+24/04/2020  10:27    <DIR>          .
+24/04/2020  10:27    <DIR>          ..
+24/04/2020  10:24                 9 john.txt
+24/04/2020  10:24                 9 John2.txt
+24/04/2020  10:24                 6 john3_newbranch.txt
+24/04/2020  10:27                 0 tokuro.txt
+               4 File(s)             24 bytes
+               2 Dir(s)  87,187,832,832 bytes free
